@@ -566,6 +566,16 @@ video {
   display: flex;
 }
 
+.size-\[42px\] {
+  width: 42px;
+  height: 42px;
+}
+
+.size-\[54px\] {
+  width: 54px;
+  height: 54px;
+}
+
 .h-\[120px\] {
   height: 120px;
 }
@@ -576,6 +586,10 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .flex-row {
